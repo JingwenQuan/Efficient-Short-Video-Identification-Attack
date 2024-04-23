@@ -1,5 +1,4 @@
-# Efficient-Short-Video-Identification-Attack
-@file main_triller.cpp (src/triller/main_triller.cpp)  
+# Efficient-Short-Video-Identification-Attack 
 @author jwquan(jwquan@seu.edu.cn) hwu(hwu@seu.edu.cn) jjdu(jjdu@seu.edu.cn) xyhu(xyhu@njnet.edu.cn)  
 @brief This repository contains our implementation for our paper **Efficient Short Video Identification Attack in Hybrid Transmission Modes with Preloading Mechanism Scenario**.  
 @version 0.1  
