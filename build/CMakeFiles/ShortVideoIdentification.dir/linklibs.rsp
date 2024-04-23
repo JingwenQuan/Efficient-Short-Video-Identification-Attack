@@ -1,0 +1,1 @@
+ ../lib/win/liblibconfig++.dll.a ../lib/win/libFlow2SE.a ../lib/win/libPcapSE.a ../lib/win/libPacketSE.a ../lib/win/libHashSE.a ../lib/win/libTlsFragSE.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
