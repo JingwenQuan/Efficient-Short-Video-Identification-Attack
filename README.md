@@ -4,5 +4,5 @@
 @version 0.1  
 @date 2024-4-18  
 #  Note
-Before run the exe, please modify **data.cfg** first. Pcap path, HAS fingerprint file path and HPD fingerprint file path should be included.  
-The exe in this repository is just a demo for our short video identification attack. It's only available for pcaps before **2024/7/1**. Please contact us(**hwu@seu.edu.cn**) for more details.
+Before running the exe, please modify **data.cfg** first. Pcap path, HAS fingerprint file path and HPD fingerprint file path should be included.  
+The exe in this repository is just a demo for our short video identification attack. It's only available for pcaps before **2024/7/1**. Please contact us (**hwu@seu.edu.cn**) for more details.
